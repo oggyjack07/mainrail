@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+torch
+open-clip-torch
+pillow
