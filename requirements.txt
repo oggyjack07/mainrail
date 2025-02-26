@@ -1,5 +1,8 @@
 fastapi
 uvicorn
 torch
+torchvision
+pyngrok
 open-clip-torch
 pillow
+python-multipart
